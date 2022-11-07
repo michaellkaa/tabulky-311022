@@ -8,6 +8,10 @@ html {
     
 }*/
 
+h1 {
+    margin-left: 20px;
+}
+
 table {
     border: solid 2px black;
     margin: 20px;
